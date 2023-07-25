@@ -2,7 +2,7 @@
 
 /************************* WRITE HANDLE *************************/
 /**
-* Ibrahim and Khanya
+ * Ibrahim and Khanya
  * handle_write_char - Prints a string
  * @c: char types.
  * @buffer: Buffer array to handle print
