@@ -3,7 +3,6 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
- *Khanya and Ibrahim
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
