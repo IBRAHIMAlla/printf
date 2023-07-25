@@ -19,6 +19,7 @@
 #define S_SHORT 1
 
 /**
+ * Ibrahim and Khanya
  * struct fmt - Struct op
  *
  * @fmt: The format.
